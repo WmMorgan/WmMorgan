@@ -1,7 +1,7 @@
 - 👋 Привет, я @WmMorgan (Махмуд)
 - 👀 Меня интересуют фильмы и дорамы и, конечно же, программирование.
 - 💞️ Приглашаю к сотрудничеству по моей услуги.
-- 📫 Как связаться со мной: telegram@C_Morgan , morganhakker@gmail.com
+- 📫 Как связаться со мной: [Telegram](t.me/C_Morgan) , morganhakker@gmail.com
 
 <!---
 WmMorgan/WmMorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
