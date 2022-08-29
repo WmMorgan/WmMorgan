@@ -14,6 +14,8 @@
  - [x] Linux
  - [x] HTML / CSS 
  - [x] JavaScript
+ 
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wmmorgan&layout=compact)
 
 <!---
 WmMorgan/WmMorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
